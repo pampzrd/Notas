@@ -1,0 +1,16 @@
+{
+  "accentColor": "#ffc7d8",
+  "cssTheme": "AnuPpuccin",
+  "translucency": true,
+  "enabledCssSnippets": [
+    "custom-rainbow-colors",
+    "extended-colorschemes",
+    "floating-search-bar",
+    "its-frontmatter",
+    "minimal-cards",
+    "notion-cards",
+    "floating-status-bar",
+    "custom-background"
+  ],
+  "theme": "obsidian"
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"2c58938f0594e913","x":-163,"y":3,"width":250,"height":60,"color":"1","type":"text","text":"BUDEGA"},
+		{"id":"0d58f2afdb26b7af","x":-163,"y":-180,"width":250,"height":60,"type":"text","text":"Chapolin"}
+	],
+	"edges":[
+		{"id":"0b48088f58406cf6","fromNode":"0d58f2afdb26b7af","fromSide":"bottom","toNode":"2c58938f0594e913","toSide":"top"}
+	]
+}

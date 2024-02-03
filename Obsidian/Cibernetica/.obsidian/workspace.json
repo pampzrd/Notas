@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "c5da6f1db6c7a578",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cb1f969c4b18a19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f7cd4c495d104a9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "232a35cab010717a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RAD-Python/T2-Manipulação de dados em arquivos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f408b7d496b1b966",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c3b78ee8fa5886d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ab00d7b89313f22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4ead25ec2a93ea7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41d0ad96a313c25a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b5c0aa69be8ab1c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e25d6ab2c30fb5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "405025fe540230cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "320f3e5b1a86addd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f922b4cad05b1ae5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d801a78ccee07ed4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "5f7cd4c495d104a9",
+  "lastOpenFiles": [
+    "RAD-Python/T2-Manipulação de dados em arquivos.md",
+    "RAD-Python",
+    "Welcome.md"
+  ]
+}

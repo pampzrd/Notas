@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "cssTheme": "Flexoki",
+  "enabledCssSnippets": [
+    "theme"
+  ],
+  "textFontFamily": "Cairo",
+  "baseFontSize": 18,
+  "nativeMenus": true,
+  "translucency": true,
+  "theme": "moonstone"
+}
